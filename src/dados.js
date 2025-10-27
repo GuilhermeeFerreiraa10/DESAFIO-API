@@ -4,15 +4,15 @@ export let pets = [
 {
     id: randomUUID(),
     nome: "Ruby",
-    Raça: "Golden",
+    raca: "Golden",
     idade: "6",
-    Tutor: "Aline"
+    tutor: "Aline"
 },
 {
     id: randomUUID(),
     nome: "Esmeralda",
-    Raça: "Husky",
+    raca: "Husky",
     idade: "4",
-    Tutor: "Guilherme"
+    tutor: "Guilherme"
 }
 ];

@@ -154,5 +154,5 @@ app.patch("/pets/:id", (req, res) => {
 //  Porta
 const porta = process.env.PORT;
 app.listen(porta, () => {
-console.log(`Servidor rodando na porta ${porta} 🐾`);
+console.log(`Servidor rodando na porta ${porta}`);
 });
